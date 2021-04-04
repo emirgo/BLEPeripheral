@@ -1,7 +1,0 @@
-"Output/Debug/Obj/BLEPeripheral/system_nrf52.o"
-"Output/Debug/Obj/BLEPeripheral/main.o"
-"Output/Debug/Obj/BLEPeripheral/SEGGER_THUMB_Startup.o"
-"Output/Debug/Obj/BLEPeripheral/ses_startup_nrf_common.o"
-"Output/Debug/Obj/BLEPeripheral/ses_startup_nrf52840.o"
-"C:/dev/ncs/v1.5.0/toolchain/segger_embedded_studio/segger-rtl/libs/libc_v7em_fpv4_sp_d16_hard_t_le_eabi.a"
-"C:/dev/ncs/v1.5.0/toolchain/segger_embedded_studio/lib/SEGGER_crtinit_v7em_little.o"
